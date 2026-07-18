@@ -74,11 +74,9 @@ Focus areas:
 
 Code and assets will only be shared if they can be presented safely without exposing private or protected materials.
 
-### Portfolio
+### [Portfolio](https://buttererror.com)
 
-**Coming soon.**
-
-The portfolio will focus on React.js, Next.js, TypeScript, dashboards, SEO, performance, and selected case studies from my frontend experience.
+The MVP of my portfolio is live at [buttererror.com](https://buttererror.com), featuring selected work and case studies from my frontend experience, with a focus on React.js, Next.js, TypeScript, dashboards, SEO, and performance. More projects, case studies, and improvements are coming in future updates.
 
 ### Full-Stack Demo
 
@@ -158,7 +156,7 @@ This will be a simplified implementation slice built to demonstrate full-stack f
 ## Links
 
 * LinkedIn: https://www.linkedin.com/in/buttererror/
-* Portfolio: Coming soon
+* Portfolio (MVP — more updates coming): https://buttererror.com
 
 <!-- ## Hi there 👋 -->
 
