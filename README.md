@@ -1,89 +1,14 @@
 # Hi, I'm Mahmoud Ahmed
 
-Front-End Developer with 7+ years of experience building web applications, dashboards, landing pages, internal tools, and business platforms across renovation, healthtech, e-commerce, and travel domains.
+**Full-Stack Developer with a strong frontend background** and 7+ years of experience building web applications, dashboards, internal tools, public websites, and business platforms across renovation, healthtech, e-commerce, and travel.
 
-My current focus is the React.js and Next.js ecosystem, especially TypeScript, dashboard applications, SEO, performance optimization, Core Web Vitals, and frontend deployment workflows. My broader frontend background includes Vue.js, Nuxt.js, and legacy JavaScript applications.
+My strongest professional experience is in **React.js, Next.js, TypeScript, frontend architecture, dashboards, SEO, performance, and production delivery**.
 
-Most of my professional work is private, so this profile is focused on selected public examples, portfolio projects, implementation demos, and learning work that can be shared safely.
+I’m currently expanding that experience across the full stack by building applications with **Node.js, NestJS, PostgreSQL, and Prisma**, including API design, authentication, relational data modeling, validation, testing, and end-to-end feature delivery.
 
-## Main Focus
+Most of my professional work is private, so this profile focuses on public-safe projects, implementation examples, and selected work that I can share without exposing proprietary code or confidential product details.
 
-* React.js
-* Next.js App Router
-* TypeScript
-* Dashboard applications and internal tools
-* SEO and Core Web Vitals
-* Frontend performance optimization
-* Frontend deployment and infrastructure
-* Clean UI implementation and API-driven interfaces
-
-## Currently Learning
-
-I am currently expanding my backend experience to improve my full-stack understanding and frontend-backend collaboration.
-
-* Node.js
-* NestJS
-* PostgreSQL
-* Prisma
-* API design
-* Database modeling
-
-## Featured Work
-
-### [Cluster Point](https://github.com/buttererror/cluster-point)
-
-Frontend implementation task built with Vue.js and the Google Maps JavaScript API.
-
-Focus areas:
-
-* Interactive map behavior
-* Point clustering
-* UI state management
-* Responsive layout
-* Component organization
-* GitHub Pages deployment
-
-### Google API / Rome2rio Integration Project
-
-**Planned public-safe showcase — not published yet.**
-
-Supporting project focused on third-party API integration.
-
-Focus areas:
-
-* Google API implementation
-* Rome2rio third-party integration
-* External API data handling
-* Travel/location-related workflows
-* API configuration and environment management
-
-Screenshots or a public-safe demo may be added after API keys, billing details, and private configuration are safely excluded.
-
-### Mohamed Naguib Museum Desktop App
-
-**Planned public-safe showcase — not published yet.**
-
-Desktop application project built with Electron.
-
-Focus areas:
-
-* Desktop UI implementation
-* Electron application experience
-* Interactive user interface work
-* Public-safe demo screenshots, if available
-
-Code and assets will only be shared if they can be presented safely without exposing private or protected materials.
-
-### [Portfolio](https://buttererror.com)
-
-The MVP of my portfolio is live at [buttererror.com](https://buttererror.com), featuring selected work and case studies from my frontend experience, with a focus on React.js, Next.js, TypeScript, dashboards, SEO, and performance. More projects, case studies, and improvements are coming in future updates.
-
-### Full-Stack Demo
-
-**Planned public-safe implementation demo — not published yet.**
-
-This will be a simplified implementation slice built to demonstrate full-stack fundamentals with React, NestJS, PostgreSQL, and Prisma. It will not include private product ideas, proprietary UX, strategic workflows, or sensitive business logic from my private project.
-## Tech Stack
+## What I Work With
 
 ### Frontend
 
@@ -93,85 +18,163 @@ This will be a simplified implementation slice built to demonstrate full-stack f
 * JavaScript
 * Vue.js
 * Nuxt.js
-
-### React / Next.js Ecosystem
-
 * React Query
 * Redux
-* Context API
 * React Hook Form
-* Yup
-* Next.js App Router
-* SSR / SSG
-* Metadata
-* Dynamic Imports
-
-### UI & Styling
-
 * MUI
 * Ant Design
 * Tailwind CSS
 * SCSS / SASS
-* CSS Modules
-* Bootstrap
-* Responsive UI
-* RTL / LTR layouts
 
-### Performance & SEO
-
-* Core Web Vitals
-* Lighthouse
-* Technical SEO
-* Image optimization
-* Lazy loading
-* Bundle optimization
-
-### Tools & Deployment
-
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD
-* Vercel
-* Docker
-* Microsoft Azure
-* AWS
-* DNS / domain configuration
-
-### Backend Learning
+### Backend & Data
 
 * Node.js
 * NestJS
 * PostgreSQL
 * Prisma
+* REST APIs
+* Authentication & authorization
+* API validation
+* Relational data modeling
+* Database migrations
+* Integration testing
 
-## How I Approach Frontend Work
+### Performance & Delivery
 
-* I organize code around features and business workflows.
-* I prefer practical architecture over unnecessary abstraction.
-* I focus on maintainable component structure, clear API integration, and readable UI logic.
-* I treat performance, SEO, accessibility basics, and responsive behavior as part of frontend delivery.
-* I avoid exposing private company code or confidential product logic in public repositories.
+* Core Web Vitals
+* Lighthouse
+* Technical SEO
+* Image and bundle optimization
+* Git / GitHub
+* CI/CD
+* GitHub Actions
+* Vercel
+* Docker
+* Azure
+* AWS
+* DNS / domain configuration
+
+---
+
+## Featured Work
+
+### [Portfolio](https://buttererror.com)
+
+My portfolio presents public-safe case studies from my professional experience across frontend platforms, dashboards, public websites, performance, SEO, and product delivery.
+
+It is being expanded to include more detailed case studies and my current full-stack work.
+
+---
+
+### Healthcare Operations Platform — Full-Stack Application
+
+**Public-safe showcase in progress.**
+
+A full-stack healthcare application I’m building to demonstrate end-to-end product engineering across frontend interfaces, backend APIs, relational data modeling, authentication, validation, and testing.
+
+Current engineering areas include:
+
+* React and TypeScript frontend
+* NestJS REST API
+* PostgreSQL and Prisma
+* Authentication and role-based access
+* Relational data modeling
+* API validation and error handling
+* Database migrations
+* Integration and database testing
+* Docker-based development workflows
+
+The public version will focus on implementation quality, architecture decisions, and full-stack engineering practices without exposing private product ideas, proprietary workflows, or sensitive business logic.
+
+---
+
+### [Cluster Point](https://github.com/buttererror/cluster-point)
+
+Frontend implementation task centered around an interactive map experience.
+
+Focus areas:
+
+* Interactive map behavior
+* Point clustering
+* UI state management
+* Responsive layout
+* Component organization
+* Third-party API integration
+* GitHub Pages deployment
+
+---
+
+### Google API / Rome2rio Integration
+
+**Planned public-safe showcase.**
+
+A travel-related integration project involving external services and location/travel workflows.
+
+Potential public-safe areas:
+
+* Third-party API integration
+* External data handling
+* Travel and location workflows
+* API configuration
+* Environment management
+
+Any public version will exclude API keys, billing information, credentials, and private configuration.
+
+---
+
+### Mohamed Naguib Museum Desktop Application
+
+**Planned public-safe showcase.**
+
+Participated in building an interactive desktop application for the Mohamed Naguib Museum using Electron.
+
+Only public-safe screenshots or implementation details will be shared where ownership and content restrictions allow.
+
+---
+
+## Engineering Focus
+
+### Full-Stack Feature Delivery
+
+I’m increasingly working vertically across application layers: frontend interfaces, API behavior, validation, authentication, persistence, relational data modeling, and testing.
+
+### Frontend Architecture
+
+My professional background includes dashboard applications, reusable UI systems, API-driven interfaces, frontend infrastructure, and progressive refactoring while continuing to deliver product features.
+
+### Dashboards & Business Applications
+
+I’ve worked on B2B, B2C, admin, contractor, service-provider, healthcare, travel, e-commerce, and operations applications across both React and Vue ecosystems.
+
+### SEO & Performance
+
+I treat performance and SEO as part of frontend engineering rather than separate finishing tasks, including Core Web Vitals, page structure, metadata, asset optimization, and public-page performance.
+
+---
+
+## How I Work
+
+* I prefer delivering complete product slices instead of building architecture that may never be needed.
+* I refactor progressively while continuing to ship features.
+* I keep abstractions proportional to current product complexity.
+* I organize code around product and business workflows.
+* I treat API integration, error handling, performance, accessibility, and responsive behavior as part of feature delivery.
+* I think across frontend, backend, and data-model boundaries when designing application features.
+* I keep company code, internal architecture, and confidential product logic out of public repositories.
+
+---
+
+## Current Direction
+
+I’m focused on **full-stack and frontend-leaning full-stack roles** where my frontend depth is valuable alongside growing backend and database experience.
+
+My current technical focus is:
+
+**React.js · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma**
+
+---
 
 ## Links
 
-* LinkedIn: https://www.linkedin.com/in/buttererror/
-* Portfolio (MVP — more updates coming): https://buttererror.com
-
-<!-- ## Hi there 👋 -->
-
-
-<!--
-**buttererror/buttererror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Portfolio:** https://buttererror.com
+* **LinkedIn:** https://www.linkedin.com/in/buttererror/
