@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Ahmed
 
-**Full-Stack Developer with a strong frontend background** and 7+ years of experience building web applications, dashboards, internal tools, public websites, and business platforms across renovation, healthtech, e-commerce, and travel.
+**Full-Stack Developer with a strong frontend background** and 8+ years of experience building web applications, dashboards, internal tools, public websites, and business platforms across renovation, healthtech, e-commerce, and travel.
 
 My strongest professional experience is in **React.js, Next.js, TypeScript, frontend architecture, dashboards, SEO, performance, and production delivery**.
 
